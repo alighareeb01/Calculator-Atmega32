@@ -10,7 +10,6 @@ This project implements a calculator using ATmega32 microcontroller, with suppor
 - [Setup](#setup)
 - [Usage](#usage)
 - [Layers and Drivers](#layers-and-drivers)
-- [License](#license)
 
 ## Introduction
 
